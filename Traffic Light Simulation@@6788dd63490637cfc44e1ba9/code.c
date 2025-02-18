@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    char c;
-    scanf("%c",&c);
-    switch(c){
+    char ch;
+    scanf("%c",&ch);
+    switch(ch){
         case'R':printf("Stop");
         break;
         case'G':printf("Go");
