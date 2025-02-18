@@ -7,7 +7,7 @@ int main(){
         break;
         case'G':printf("Go");
         break;
-        case'R':printf("Slow Down");
+        case'Y':printf("Slow Down");
         break;
         default:printf("Invalid input");
 
