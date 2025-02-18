@@ -4,6 +4,6 @@ int main(){
     scanf("%d %d",&a,&b);
     if(a>b){printf("Profit");}
     else if(b>a){printf("loss");}
-    else{printf("No Profit No Loss")}
+    else{printf("No Profit No Loss");}
     return 0;
 }
