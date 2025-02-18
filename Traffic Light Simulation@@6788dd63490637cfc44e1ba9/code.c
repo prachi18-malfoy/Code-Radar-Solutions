@@ -9,7 +9,7 @@ int main(){
         break;
         case'R':printf("Slow Down");
         break;
-        default:printf("Invalid");
+        default:printf("Invalid input");
 
     }
 }
