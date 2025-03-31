@@ -7,9 +7,10 @@ int main(){
         for(j=1;j<=i;j++){
             if(n%2==0) a==1;
             else a==0;
-            printf("%d",a);
-            a++;
+            printf("%d ",a);
+            
         }
+        a++;
         printf("\n");
     }
 }
