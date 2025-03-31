@@ -7,7 +7,7 @@ int main(){
         int d=a+64;
         char ch=(char)d;
         for(j=1;j<=i;j++){
-            printf("%c",ch);
+            printf("%c ",ch);
         }
         printf("\n");
     }
