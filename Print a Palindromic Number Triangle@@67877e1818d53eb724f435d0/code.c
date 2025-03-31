@@ -10,6 +10,15 @@ int main(){
         for(j=1;j<=2*i-1;j++){
             printf("%d",j);
         }
+         for (j = i; j >= 1; j--) {
+            printf("%d", j);
+        }
+        /
+        for (j = 2; j <= i; j++) {
+            printf("%d", j);
+        }
         printf("\n");
     }
+
+    return 0;
 }
