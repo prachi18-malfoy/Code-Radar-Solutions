@@ -9,6 +9,7 @@ int main(){
         char ch=(char)d;
         for(j=1;j<=i;j++){
             printf("%c ",ch);
+            a++
         }
         printf("\n");
     }
