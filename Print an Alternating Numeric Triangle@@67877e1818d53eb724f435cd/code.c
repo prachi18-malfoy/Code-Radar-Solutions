@@ -8,12 +8,13 @@ int main(){
         if(i%2==0) a=0;
             else a=1;
         for(j=1;j<=i;j++){
-            if(a==0) a=0;
-            else a=1;
+            if(a==0) a=1;
+            else a=0;
             printf("%d ",a);
             
         }
         
         printf("\n");
     }
+    return 0;
 }
