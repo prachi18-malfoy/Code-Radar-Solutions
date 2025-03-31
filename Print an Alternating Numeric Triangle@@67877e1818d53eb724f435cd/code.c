@@ -2,8 +2,9 @@
 int main(){
     int i,j,n;
     scanf("%d",&n);
+    int a;
     for(i=1;i<=n;i++){
-        int a;
+        
         if(n%2!=0) a=1;
             else a==0;
         for(j=1;j<=i;j++){
