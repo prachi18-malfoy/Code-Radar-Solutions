@@ -2,10 +2,10 @@
 int main(){
     int n;
     scanf("%d",&n);
-    int a;
+    int a=0;
 for(int i=1;i<=n;i++){
     int d=a+i;
-    printf("%d ",d);
+    printf("%d",d);
 }
 
 return 0;
