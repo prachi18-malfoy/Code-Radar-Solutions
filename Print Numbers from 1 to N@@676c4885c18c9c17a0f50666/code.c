@@ -2,14 +2,9 @@
 int main(){
     int n;
     scanf("%d",&n);
-if(n==5){
-    printf("1 2 3 4 5\n");
-if(n==1){
-    printf("1");
+for(int 1=1;i<=n;i++){
+    printf("%d",i);
 }
-    
-}
-
 
 return 0;
 }
